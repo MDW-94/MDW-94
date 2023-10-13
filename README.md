@@ -1,6 +1,6 @@
 ## Matthew David Wasylko - Code Clan / Code Base Student 👋 👨‍💻 📚 
 
-I'm currently studying on the 16-week, Professional Software Development course facilitated by Code Clan / Code Base
+I'm currently studying on the 16-week, Professional Software Development course facilitated by Code Clan / Code Base - Cohort G38!
 
 The languages, frameworks and libraries I've learnt so far include Javascript, Java, Python, HTML, CSS, SQL, Flask, Jinja, React, ArcGIS and more. 
 
