@@ -1,4 +1,8 @@
-### Hi there 👋
+## Matthew David Wasylko - Code Clan / Code Base Student 👋 👨‍💻 📚 
+
+### I'm currently studying on the 16-week, Professional Software Development course facilitated by Code Clan / Code Base
+
+### The languages, frameworks and libraries I've learnt so far include Javascript, Java, Python, HTML, CSS, Flask, Jinja, React, ArcGIS and more. I'm particularly interested in Green Tech, Tech for Good & Creative Technologies - Looking for a junior developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering.
 
 <!--
 **MDW-94/MDW-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
