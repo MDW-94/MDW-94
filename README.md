@@ -1,11 +1,11 @@
 # Matthew David Wasylko - Junior Software Developer 👨‍💻 
 ## CodeClan / CodeBase
 
-🏔️  I'm currently studying on the 16-week, Professional Software Development course facilitated by Code Clan / Code Base - Cohort G38!
+🏔️ - I'm currently studying on the 16-week, Professional Software Development course facilitated by Code Clan / Code Base - Cohort G38!
 
-📚  The languages, frameworks and libraries I've learnt so far include Javascript, Java, Python, HTML, CSS, SQL, Flask, Jinja, React, ArcGIS and more. 
+📚 - The languages, frameworks and libraries I've learnt so far include Javascript, Java, Python, HTML, CSS, SQL, Flask, Jinja, React, ArcGIS and more. 
 
-🌳  I'm into Green Tech, Tech for Good & Creative Technologies - Currently looking for a junior developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering. 🌊 
+🌳 - I'm into Green Tech, Tech for Good & Creative Technologies - Currently looking for a junior developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering. 🌊 
 
 <!--
 **MDW-94/MDW-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
