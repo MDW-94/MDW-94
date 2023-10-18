@@ -1,7 +1,7 @@
 # Matthew David Wasylko - Junior Software Developer 👨‍💻 🌳 🌊  
 ## CodeClan / CodeBase 🏔️ 
 
-I'm currently studying on the 16-week, Professional Software Development course facilitated by CodeClan / CodeBase - Cohort G38! Mountain 🏔️
+I'm currently studying on the 16-week, Professional Software Development course facilitated by CodeClan / CodeBase - Cohort G38! Mountain
 
 The languages, frameworks and libraries I've learnt so far include Javascript, Java, Python, HTML, CSS, SQL, Flask, Jinja, React, ArcGIS and more. 
 
