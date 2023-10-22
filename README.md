@@ -5,7 +5,7 @@ I'm currently studying on the 16-week, Professional Software Development course 
 
 The languages, frameworks and libraries I've learnt so far include Javascript, Java, Python, HTML, CSS, SQL, Flask, Jinja, React, ArcGIS and more 
 
-I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, even though I'm not formally certified in the field. Usually I read articles either from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!
+I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!
 
 🌳  Currently looking for a junior developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 
 
