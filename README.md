@@ -9,7 +9,7 @@ I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I e
 
 🌳  Currently looking for a junior developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/Python-8A2BE2)
 
 
 <!--
