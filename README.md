@@ -9,7 +9,7 @@ I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I e
 
 🌳  Currently looking for a junior developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 
 
-https://img.shields.io/badge/:badgeContent
+https://img.shields.io/badge/just%20the%20message-8A2BE2
 
 <!--
 **MDW-94/MDW-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
