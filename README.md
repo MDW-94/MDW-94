@@ -1,11 +1,11 @@
-# Matthew David Wasylko - Junior Software Developer 🌊  
+# Matthew David Wasylko - Software Developer 🌊  
 ## CodeClan / CodeBase 🏔️ 
 
 I'm currently studying on the 16-week, Professional Software Development course facilitated by CodeClan / CodeBase - Cohort G38!
 
 I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!
 
-🌳  Currently looking for a junior developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 
+🌳  Currently looking for a developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 
 
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2) ![Static Badge](https://img.shields.io/badge/Javascript-%23ffb900) ![Static Badge](https://img.shields.io/badge/SQL-%2356a0d3) ![Static Badge](https://img.shields.io/badge/Java-%23ed9121) ![Static Badge](https://img.shields.io/badge/HTML-%23c41e3a) ![Static Badge](https://img.shields.io/badge/CSS-%2310add6)
  ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%2300cc99) ![Static Badge](https://img.shields.io/badge/React-%2398f5ff) ![Static Badge](https://img.shields.io/badge/ArcGIS-%23339966) ![Static Badge](https://img.shields.io/badge/PostgresSQL-%23bedbed) ![Static Badge](https://img.shields.io/badge/Flask-%23e6e6fa) ![Static Badge](https://img.shields.io/badge/Jinja2-%238b2e62) ![Static Badge](https://img.shields.io/badge/Psycopg2-%23FFFF33) ![Static Badge](https://img.shields.io/badge/InsomniaREST-%236633cc) ![Static Badge](https://img.shields.io/badge/R%20Markdown-%23cc0033) ![Static Badge](https://img.shields.io/badge/MongoDB-%23669933) ![Static Badge](https://img.shields.io/badge/Git-%23ff3333) ![Static Badge](https://img.shields.io/badge/IntelliJ-%23330000) ![Static Badge](https://img.shields.io/badge/VSCode-%2366ccff%20) ![Static Badge](https://img.shields.io/badge/CypressIO-%2333cc99)
