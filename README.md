@@ -22,8 +22,6 @@ I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I e
 
 <div align="center">
 <a href="https://github.com/MDW-94">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MDW-94&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MDW-94&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDW-94&theme=2077" height="180em" />
 </div>
 
