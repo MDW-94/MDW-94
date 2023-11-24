@@ -18,7 +18,7 @@ I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I e
 </div>
 
 
-&nbsp;&nbsp;
+&nbsp;
 
 <div align="left">
 <a href="https://github.com/MDW-94">
