@@ -1,4 +1,4 @@
-# Matthew David Wasylko - Software Developer 🌊  
+# <h1> Matthew David Wasylko - Software Developer 🌊 </h1>
 ## CodeClan / CodeBase Graduate 🏔️ 
 
 Recent graduate of the 16-week, Professional Software Development course facilitated by CodeClan / CodeBase - Cohort G38!
