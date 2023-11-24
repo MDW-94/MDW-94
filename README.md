@@ -23,6 +23,7 @@ I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I e
 <div align="left">
 <a href="https://github.com/MDW-94">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDW-94&layout=compact&theme=highcontrast" alt=MDW-94 />
+ 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDW-94&theme=2077" height="180em" />
 </div>
 
