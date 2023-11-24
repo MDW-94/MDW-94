@@ -1,5 +1,5 @@
 # <h1 align="center"> 🌊 Matthew David Wasylko - Software Developer 🌊 </h1>
-<h3 align="center">🏔️ CodeClan / CodeBase Graduate 🏔️ </h3>
+<h2 align="center">🏔️ CodeClan / CodeBase Graduate 🏔️ </h2>
 
 <div align="justify"> Recent graduate of the 16-week, Professional Software Development course facilitated by CodeClan / CodeBase - Cohort G38!
 
