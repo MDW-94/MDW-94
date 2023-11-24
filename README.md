@@ -12,6 +12,7 @@ I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I e
 <a href = "mailto:matthew.wasylko@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2) ![Static Badge](https://img.shields.io/badge/Javascript-%23ffb900) ![Static Badge](https://img.shields.io/badge/SQL-%2356a0d3) ![Static Badge](https://img.shields.io/badge/Java-%23ed9121) ![Static Badge](https://img.shields.io/badge/HTML-%23c41e3a) ![Static Badge](https://img.shields.io/badge/CSS-%2310add6)
  ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%2300cc99) ![Static Badge](https://img.shields.io/badge/React-%2398f5ff) ![Static Badge](https://img.shields.io/badge/ArcGIS-%23339966) ![Static Badge](https://img.shields.io/badge/PostgresSQL-%23bedbed) ![Static Badge](https://img.shields.io/badge/Flask-%23e6e6fa) ![Static Badge](https://img.shields.io/badge/Jinja2-%238b2e62) ![Static Badge](https://img.shields.io/badge/Psycopg2-%23FFFF33) ![Static Badge](https://img.shields.io/badge/InsomniaREST-%236633cc) ![Static Badge](https://img.shields.io/badge/R%20Markdown-%23cc0033) ![Static Badge](https://img.shields.io/badge/MongoDB-%23669933) ![Static Badge](https://img.shields.io/badge/Git-%23ff3333) ![Static Badge](https://img.shields.io/badge/IntelliJ-%23330000) ![Static Badge](https://img.shields.io/badge/VSCode-%2366ccff%20) ![Static Badge](https://img.shields.io/badge/CypressIO-%2333cc99)
 
