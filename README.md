@@ -11,15 +11,11 @@ I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I e
  ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%2300cc99) ![Static Badge](https://img.shields.io/badge/React-%2398f5ff) ![Static Badge](https://img.shields.io/badge/ArcGIS-%23339966) ![Static Badge](https://img.shields.io/badge/PostgresSQL-%23bedbed) ![Static Badge](https://img.shields.io/badge/Flask-%23e6e6fa) ![Static Badge](https://img.shields.io/badge/Jinja2-%238b2e62) ![Static Badge](https://img.shields.io/badge/Psycopg2-%23FFFF33) ![Static Badge](https://img.shields.io/badge/InsomniaREST-%236633cc) ![Static Badge](https://img.shields.io/badge/R%20Markdown-%23cc0033) ![Static Badge](https://img.shields.io/badge/MongoDB-%23669933) ![Static Badge](https://img.shields.io/badge/Git-%23ff3333) ![Static Badge](https://img.shields.io/badge/IntelliJ-%23330000) ![Static Badge](https://img.shields.io/badge/VSCode-%2366ccff%20) ![Static Badge](https://img.shields.io/badge/CypressIO-%2333cc99)
 
 &nbsp;
-
  <div> <a href="https://www.linkedin.com/in/Matthew David Wasylko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/MDW-94" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:matthew.wasylko@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-
 &nbsp;
-
 <div align="left">
 <a href="https://github.com/MDW-94">
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDW-94&layout=compact&theme=vue" alt=MDW-94 />
