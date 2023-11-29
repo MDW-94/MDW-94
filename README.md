@@ -2,7 +2,7 @@
 <h2 align="center">🏔️ CodeClan / CodeBase Graduate 🏔️ </h2>
 
 <div align="justify"> Recent graduate of the 16-week, Professional Software Development course facilitated by CodeClan / CodeBase - Cohort G38!
-<br\>
+
 I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!
 
 🌳  Currently looking for a software developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 </div>
