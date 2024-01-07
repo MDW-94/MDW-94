@@ -5,7 +5,7 @@
 <br></br>
 I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!
 <br></br>
-🌳  Currently looking for a software developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 </div>
+<div align="center" >🌳  Currently looking for a software developer role to continue my career transition and bring my previous employment skills into my new passion for software engineering  🌳 </div></div>
 
 
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2) ![Static Badge](https://img.shields.io/badge/Javascript-%23ffb900) ![Static Badge](https://img.shields.io/badge/SQL-%2356a0d3) ![Static Badge](https://img.shields.io/badge/Java-%23ed9121) ![Static Badge](https://img.shields.io/badge/HTML-%23c41e3a) ![Static Badge](https://img.shields.io/badge/CSS-%2310add6)
