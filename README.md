@@ -1,7 +1,8 @@
 # <h1 align="center"> 🌊 Matthew David Wasylko - Software Developer 🌊 </h1>
-<h2 align="center">🏔️ CodeClan / CodeBase Graduate 🏔️ </h2>
+<h2 align="center">🏔️ Qwasar Elite Software Engineering Student && CodeClan / CodeBase Graduate 🏔️ </h2>
 
-<div align="justify"> Current Qwasar Elite Software Engineering Student && Previous CodeClan / CodeBase Software Development Graduate - Cohort G38
+<div align="justify"> Currently studying: Qwasar Elite Software Engineering Student 
+ Previously studied: CodeClan / CodeBase Software Development Graduate - Cohort G38
 <br></br>
 I'm into Green Tech, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!
 <br></br>
