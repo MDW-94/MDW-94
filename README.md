@@ -4,11 +4,13 @@
 <div align="justify"> Currently: Part-Time, Qwasar Elite Software Engineering Student <br/>
  Previously: CodeClan / CodeBase Software Development Graduate - Cohort G38
 <hr></hr>
-<div align="center">After graduating from the Professional Software Development program facilitated by CodeClan / CodeBase I am continuing my retraining through Qwasar. 
+<div align="center">
+After graduating from the Professional Software Development program facilitated by CodeClan / CodeBase I am continuing my retraining through Qwasar. 
 <br></br>
 I'm passionate about GIS, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!</div>
 <br></br>
-<div align="center" >🌳  <b>Searching for a software developer role in order to learn and grow with an organisation.</b> I aim to continue my career transition and bring my previous professional skills into my new passion for software engineering  🌳 </div></div>
+🌳  <b>Searching for a software developer role in order to learn and grow with an organisation.</b> I aim to continue my career transition and bring my previous professional skills into my new passion for software engineering  🌳
+</div>
 <br></br>
 
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2) ![Static Badge](https://img.shields.io/badge/Javascript-%23ffb900) ![Static Badge](https://img.shields.io/badge/SQL-%2356a0d3) ![Static Badge](https://img.shields.io/badge/Java-%23ed9121) ![Static Badge](https://img.shields.io/badge/HTML-%23c41e3a) ![Static Badge](https://img.shields.io/badge/CSS-%2310add6)
