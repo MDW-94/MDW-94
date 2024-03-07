@@ -1,4 +1,4 @@
-# <h1 align="center"> 🌊 Matthew Wasylko - Software Developer 🌊 </h1>
+# <h1 align="center"> 🌊 Matthew David Wasylko - Software Developer 🌊 </h1>
 <h2 align="center">🏔️ Qwasar ESE Student && CodeClan / CodeBase Graduate 🏔️ </h2>
 
 <div align="justify"> Currently: Part-Time, Qwasar Elite Software Engineering Student <br/>
