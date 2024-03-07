@@ -6,7 +6,7 @@
 <br></br>
 
 <div align="center">After graduating from the Professional Software Developemtn program through CodeClan / CodeBase I am continuing my retraining through Qwasar. 
-
+<br></br>
 I'm passionate about GIS, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!</div>
 <br></br>
 <div align="center" >🌳  <b>Searching for a software developer role in order to learn and grow with an organisation.</b> I aim to continue my career transition and bring my previous professional skills into my new passion for software engineering  🌳 </div></div>
