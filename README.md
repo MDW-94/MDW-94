@@ -3,6 +3,7 @@
 
 <div align="justify"> Currently: Part-Time, Qwasar Elite Software Engineering Student <br/>
  Previously: CodeClan / CodeBase Software Development Graduate - Cohort G38
+<hr></hr>
 <br></br>
 
 <div align="center">After graduating from the Professional Software Development program facilitated by CodeClan / CodeBase I am continuing my retraining through Qwasar. 
