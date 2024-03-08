@@ -1,5 +1,6 @@
-# <h1 align="center"> 🌊 Matthew David Wasylko - Software Developer 🌊 </h1>
-<h2 align="center">Qwasar ESE Student && CodeClan / CodeBase Graduate</h2>
+# <h1 align="center"> Matthew David Wasylko<br/>
+   <i>🌊 Software Developer 🌊</i>
+  </h1>
 
 <div word-spacing: 6px>
   <ul list-style-position: outside>
