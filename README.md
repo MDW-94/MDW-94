@@ -1,6 +1,6 @@
-# <h1 align="center"> Matthew David Wasylko
-   <i>🌊 Software Developer 🌊</i>
-  </h1>
+# <h1 align="center"> Matthew David Wasylko  </h1>
+##   <i>🌊 Software Developer 🌊</i>
+
 
 <div word-spacing: 6px>
   <ul list-style-position: outside>
