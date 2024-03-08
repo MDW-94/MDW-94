@@ -1,4 +1,4 @@
-# <h1 color="white" background="black" align="center">Matthew David Wasylko</h1>
+# <div color="white" background="black"> <h1 align="center">Matthew David Wasylko</h1></div>
 ### <p align="center">🌊 Software Developer 🌊</p>
 
 <div word-spacing: 6px>
