@@ -1,4 +1,4 @@
-# <h1 align="center"> Matthew David Wasylko<br/>
+# <h1 align="center"> Matthew David Wasylko
    <i>🌊 Software Developer 🌊</i>
   </h1>
 
