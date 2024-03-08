@@ -2,10 +2,10 @@
 <h2 align="center">🏔️ Qwasar ESE Student && CodeClan / CodeBase Graduate 🏔️ </h2>
 
 <div>
-  <div list-style-position: outside>
+  <ul list-style-position: outside>
    <li>Currently: Part-Time, Qwasar Elite Software Engineering Student </li>
    <li>Previously: CodeClan / CodeBase Software Development Graduate - Cohort G38</li>
-  </div>
+  </ul>
 <hr></hr>
 <div align="center">
 After graduating from the Professional Software Development program facilitated by CodeClan / CodeBase I am continuing my retraining through Qwasar. 
