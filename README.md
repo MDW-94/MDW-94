@@ -1,4 +1,4 @@
-# <h1 align="center"><span style="color:rgb(245,245,245); background-color:rgb(0,0,0)">Matthew David Wasylko</span></h1>
+# <h1 align="center">Matthew David Wasylko</h1>
 ### <p align="center">🌊 Software Developer 🌊</p>
 
 <div word-spacing: 6px>
