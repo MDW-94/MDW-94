@@ -1,4 +1,4 @@
-# <div align="center"><h1> Matthew David Wasylko</h1><br></br><i>🌊 Software Developer 🌊</i></div>
+# <h1 align="center"> Matthew David Wasylko</h1><br></br><i align="center">🌊 Software Developer 🌊</i>
 
 <div word-spacing: 6px>
   <ul list-style-position: outside>
