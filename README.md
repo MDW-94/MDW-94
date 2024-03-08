@@ -1,7 +1,7 @@
 # <h1 align="center"> 🌊 Matthew David Wasylko - Software Developer 🌊 </h1>
 <h2 align="center">🏔️ Qwasar ESE Student && CodeClan / CodeBase Graduate 🏔️ </h2>
 
-<div word-spacing: 4px>
+<div word-spacing: 6px>
   <ul list-style-position: outside>
    <li>Currently: Part-Time, Qwasar Elite Software Engineering Student </li>
    <li>Previously: CodeClan / CodeBase Software Development Graduate - Cohort G38</li>
