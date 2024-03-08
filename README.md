@@ -1,5 +1,5 @@
-# <h1 align="center"> Matthew David Wasylko  </h1>
-## <i text-align="center">🌊 Software Developer 🌊</i>
+#<div align="center"><h1> Matthew David Wasylko  </h1>
+## <i>🌊 Software Developer 🌊</i></div>
 
 
 <div word-spacing: 6px>
