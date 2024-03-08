@@ -1,4 +1,4 @@
-# <h1 color="rgb(245,245,245)" background="rgb(0,0,0)" align="center">Matthew David Wasylko</h1>
+# <h1 color="rgb(245,245,245)" bgcolor="rgb(0,0,0)" align="center">Matthew David Wasylko</h1>
 ### <p align="center">🌊 Software Developer 🌊</p>
 
 <div word-spacing: 6px>
