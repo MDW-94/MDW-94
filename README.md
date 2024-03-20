@@ -14,7 +14,7 @@ I'm passionate about GIS, Tech for Good & Creative Technologies. In my spare tim
 <div align="center">
   <br></br>
   <div>🌳🌳🌳</div>
-  <b>I'm committed to developing software that has a positive impact and want to find an organisation I can learn and grow with.</b> I aim to continue my career transition and bring my previous professional skills into my new passion for software engineering
+  <b> Searching for a software developer role with an organisation I can learn and grow with.</b> I aim to continue my career transition and bring my previous professional skills into my new passion for software engineering
 </div>
 </div>
 
