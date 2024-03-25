@@ -8,7 +8,6 @@
   </ul>
 <hr></hr>
 <div align="center">
-After graduating from the Professional Software Development program facilitated by CodeClan / CodeBase I am continuing my retraining through Qwasar. 
 <br></br>
 I'm passionate about GIS, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields!</div>
 <div align="center">
