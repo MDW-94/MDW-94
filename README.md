@@ -3,8 +3,9 @@
 
 <div word-spacing: 6px>
   <ul list-style-position: outside>
-   <li>Currently: Part-Time, Qwasar Elite Software Engineering Student </li>
-   <li>Previously: CodeClan / CodeBase Software Development Graduate - Cohort G38</li>
+     <li>Currently: Full-Time | User Testing | Software Engineer Intern</li>
+     <li>Currently: Part-Time | Qwasar | Elite Software Engineering Student </li>
+     <li>Previously: CodeClan / CodeBase | Software Development Graduate | Cohort G38</li>
   </ul>
 <hr></hr>
 <div align="center">
