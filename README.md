@@ -10,7 +10,7 @@
 <hr></hr>
 <div align="center">
 <br></br>
-I'm passionate about GIS, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields</div>
+I am driven by technology that makes a positive impact. Some of my passions include GIS, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields</div>
 <div align="center">
   <br></br>
   <div>🌳🌳🌳</div>
