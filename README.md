@@ -14,7 +14,7 @@ I am driven by using technology to create positive impact. Some of my passions i
 <div align="center">
   <br></br>
   <div>🌳🌳🌳</div>
-  <b> Searching for a software developer role within an organisation I can learn and grow with.</b> I am committed to developing software that has a positive impact and wish to continue my career transition, bringing my previous professional skills into my new passion for software engineering
+  <b> Searching for a software developer role within an organisation I can learn and grow with.</b> I am committed to developing software that creates enduring, positive change. As I transition to a career focused on impactful technology, I am leveraging my previous professional skills to fuel my passion for software engineering.
 </div>
 </div>
 
