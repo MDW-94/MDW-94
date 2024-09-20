@@ -5,7 +5,7 @@
   <ul list-style-position: outside>
      <li>Currently:   Full-Time | LGB | Software Engineering Apprentice </li>
      <li>Currently:   Part-Time | Qwasar | Elite Software Engineering Student </li>
-     <li>Previously:  User Testing | Software Engineer Intern</li>
+     <li>Previously:  User Testing | Software Engineering Intern</li>
      <li>Previously:  CodeClan / CodeBase | Software Development Graduate | Cohort G38</li>
   </ul>
 <hr></hr>
