@@ -4,13 +4,12 @@
 <div word-spacing: 6px>
   <ul list-style-position: outside>
      <li>Currently:   Full-Time | LGB | Software Engineering Apprentice </li>
-     <li>Currently:   Part-Time | Qwasar | Elite Software Engineering Student </li>
      <li>Previously:  User Testing | Software Engineering Intern</li>
+     <li>Previously:  Part-Time | Qwasar | Elite Software Engineering Student </li>
      <li>Previously:  CodeClan / CodeBase | Software Development Graduate | Cohort G38</li>
   </ul>
 <hr></hr>
 <div align="center">
-<br></br>
 I am driven by technology that creates positive impact. My passions include GIS, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields</div>
 </div>
 
