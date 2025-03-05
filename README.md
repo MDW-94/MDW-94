@@ -12,11 +12,6 @@
 <div align="center">
 <br></br>
 I am driven by technology that creates positive impact. My passions include GIS, Tech for Good & Creative Technologies. In my spare time I enjoy reading about science, usually articles from the NewScientist magazine or just from googling questions I think of - most of the subjects I enjoy have a focus on sustainability. I'm particularly interested in how software can benefit the research in these fields</div>
-<div align="center">
-  <br></br>
-  <div>🌳🌳🌳</div>
-  <b> Searching for a software developer role within an organisation I can learn and grow with.</b> I am committed to developing software that creates enduring, positive change. As I transition to a career focused on impactful technology, I am leveraging my previous professional skills to fuel my passion for software engineering.
-</div>
 </div>
 
 <br></br>
