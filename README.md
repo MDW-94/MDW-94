@@ -3,7 +3,7 @@
 
 <div word-spacing: 6px>
   <ul list-style-position: outside>
-     <li>Currently:   Full-Time | LGB | Software Engineering Apprentice </li>
+     <li>Currently:   Full-Time | LGB | Junior Software Engineer (Band C) </li>
      <li>Previously:  User Testing | Software Engineering Intern</li>
      <li>Previously:  Part-Time | Qwasar | Elite Software Engineering Student </li>
      <li>Previously:  CodeClan / CodeBase | Software Development Graduate | Cohort G38</li>
