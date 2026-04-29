@@ -3,7 +3,7 @@
 
 <div word-spacing: 6px>
   <ul list-style-position: outside>
-     <li>Currently:   Full-Time | LGB | Junior Software Engineer (Band C) </li>
+     <li>Currently:   Full-Time | LGB | Software Engineer (Level 1) </li>
      <li>Previously:  User Testing | Software Engineering Intern</li>
   </ul>
 <hr></hr>
