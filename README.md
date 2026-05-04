@@ -2,7 +2,7 @@
 
 <div word-spacing: 6px>
   <ul list-style-position: outside>
-     <li>Currently:   Full-Time | Lloyd's Banking Group | Software Engineer (Level 1) </li>
+     <li>Currently:   Full-Time | Lloyd's Banking Group | Software Engineer (Band C) </li>
      <li>Previously:  User Testing | Software Engineering Intern</li>
   </ul>
 <hr></hr>
