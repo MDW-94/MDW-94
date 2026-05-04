@@ -6,10 +6,14 @@
      <li>Previously:  User Testing | Software Engineering Intern</li>
   </ul>
 <hr></hr>
-<div align="center">
+<div align="left">
 <h2>Projects</h2>
 <h3>C</h3>
-tbc...
+<ul list-style-position: outside>
+ <li>to</li>
+ <li>be</li>
+ <li>completed</li>
+</ul>
 <h3>Python</h3>
 tbc...
 <h3>Rust</h3>
