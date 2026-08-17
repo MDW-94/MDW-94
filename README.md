@@ -1,11 +1,6 @@
 # <h1 align="center">Matthew Wasylko</h1>
 
 <div word-spacing: 6px>
-  <ul list-style-position: outside>
-     <li>Currently:   Full-Time | Lloyd's Banking Group | Software Engineer </li>
-     <li>Previously:  User Testing | Software Engineering Intern</li>
-  </ul>
-<hr></hr>
 <div align="left">
 <h2>Projects</h2>
 <h3>C</h3>
