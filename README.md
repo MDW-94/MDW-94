@@ -3,20 +3,24 @@
 <div word-spacing: 6px>
 <div align="left">
 <h2>Projects</h2>
+ 
 <h3>C</h3>
 <ul list-style-position: outside>
  <li>[TUI Game: Mastermind](https://github.com/MDW-94/my_mastermind)</li>
 </ul>
+ 
 <h3>Rust</h3>
 <ul>
  <li>[Rusty Dungeon Crawler](https://github.com/MDW-94/dungeon_crawler_rust)</li>
-<ul/>
+</ul>
+ 
 <h3>TS/JS</h3>
- <ul>
+<ul>
  <li>[Public website for Community Project, Glasgow](https://github.com/MDW-94/boomerang_woodwork)</li>
  <li>[Interactive GIS map of the Shetland Isles](https://github.com/MDW-94/arcgis_map)</li>
  <li>[LBG Hackathon: ADHD Scheduler](https://github.com/MDW-94/reboot_sunshine)</li>
- <ul/>
+</ul>
+ 
 <h3>Python</h3>
 tbc...
 </div>
