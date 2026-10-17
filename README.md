@@ -16,6 +16,7 @@
  
 <h3>TS/JS</h3>
 <ul>
+ <li>Public art installation: Connection, Quantum Entanglement Game - https://github.com/MDW-94/quantum_installation</li>
  <li>Public website for Community Project, Glasgow - https://github.com/MDW-94/boomerang_woodwork</li>
  <li>Interactive GIS map of the Shetland Isles - https://github.com/MDW-94/arcgis_map</li>
  <li>LBG Hackathon: ADHD Scheduler - https://github.com/MDW-94/reboot_sunshine</li>
