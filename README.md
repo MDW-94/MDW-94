@@ -5,15 +5,19 @@
 <h2>Projects</h2>
 <h3>C</h3>
 <ul list-style-position: outside>
- <li>to</li>
- <li>be</li>
- <li>completed</li>
+ <li>[TUI Game: Mastermind](https://github.com/MDW-94/my_mastermind)</li>
 </ul>
-<h3>Python</h3>
-tbc...
 <h3>Rust</h3>
-- [Rusty Roguelike Dungeon Crawler](https://github.com/MDW-94/dungeon_crawler_rust)
+<ul>
+ <li>[Rusty Dungeon Crawler](https://github.com/MDW-94/dungeon_crawler_rust)</li>
+<ul/>
 <h3>TS/JS</h3>
+ <ul>
+ <li>[Public website for Community Project, Glasgow](https://github.com/MDW-94/boomerang_woodwork)</li>
+ <li>[Interactive GIS map of the Shetland Isles](https://github.com/MDW-94/arcgis_map)</li>
+ <li>[LBG Hackathon: ADHD Scheduler](https://github.com/MDW-94/reboot_sunshine)</li>
+ <ul/>
+<h3>Python</h3>
 tbc...
 </div>
 </div>
@@ -29,22 +33,6 @@ tbc...
 <a href="https://github.com/MDW-94">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDW-94&theme=vue" height="155em" />
 </div>
-
-
-
- 
- 
-
- 
-
-
-
-
-
-
-
-
-
 
 <!--
 **MDW-94/MDW-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
